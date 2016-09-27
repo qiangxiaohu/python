@@ -1,0 +1,7 @@
+运行程序为core目录下的main.py
+conf目录下存放文件
+ATM.py存放ATM信息
+user.py存放购物商城登陆用户
+shop.py存放商城信息
+
+运行main.py
